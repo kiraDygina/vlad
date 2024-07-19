@@ -1,0 +1,23 @@
+h1{color: rgb(0, 0, 0);}
+img{width: 250px;
+    height: 250px;}
+    nav{border: 5px;
+    border-radius: 3px;}
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+
+    nav a {text-decoration: none;color: white;
+    font-weight: 900;
+    font-size: 20px;  margin: 50px;}
+   header {background-color: #E83100; height: 85px;} 
+
+body{margin: 0;font-family: "Playwrite CU", cursive;}
+.a{width: 70px; height: 70px;}
+main{margin: 10px;
+text-align: center;}
+.s{border-radius: 15px;}
+.d{border-radius: 15px ;}
+.g{border:10px inset #FF6933; padding:10px;}
+footer{background: #FAD074;
+padding:15px}
+.t{width: 40px; height: 40px;}
+footer a{margin-left: 70px;}
